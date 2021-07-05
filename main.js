@@ -4,7 +4,7 @@ ctx = canvas.getContext("2d");
 rover_width = 100;
 rover_height = 90;
 
-rover_image = "download (1).jpg"
+rover_image = "car.jpg"
 background_image = "racing_track.jpg"
 
 rover_x = 10;
